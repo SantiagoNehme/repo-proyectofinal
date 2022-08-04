@@ -85,12 +85,13 @@ footer{
 }
 
 .tablaLogros{
-    background-color: grey;
+    background-color: black;
     position: relative;
     font-size: 30px;
     width: 50%;
     margin: 3rem;
     padding: 3rem;
+    
 }
 
 ul {
@@ -168,6 +169,7 @@ img{
 .logroUno{
     display: flex;
     width: auto;
+
 }
 .box{
     display: flex;
